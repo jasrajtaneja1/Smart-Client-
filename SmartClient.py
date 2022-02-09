@@ -1,6 +1,4 @@
-#jasraj taneja
-#V00942510
-#CSC 361 assignment 1
+
 
 import socket, ssl, re, time, os, sys, select, threading, argparse
 from urllib.parse import urlparse
